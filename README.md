@@ -10,7 +10,7 @@ Banks and financial institutions often face challenges in efficiently processing
 
 ## Dataset
 
-The dataset used for this project can be found in file . It includes information about past loan applications, such as applicant details, loan amount, credit score, employment history, etc.
+The dataset used for this project can be found in the file. It includes information about some crucial data that should be considered for Loan Approval.
 
 ## Features
 
